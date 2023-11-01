@@ -1,0 +1,20 @@
+.carousel img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Atur latar belakang container baru */
+.additional-container {
+    background-color: #f2f2f2; /* Warna abu-abu */
+    border-radius: 5px;
+}
+
+.additional-container h2 {
+    font-size: 24px;
+    text-align: center;
+}
+
+.additional-container p {
+    font-size: 16px;
+    text-align: justify;
+}
